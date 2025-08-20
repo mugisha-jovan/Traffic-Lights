@@ -1,6 +1,6 @@
 const lights = [
     document.getElementById('red'),
-    document.getElementById('yellow'),
+    document.getElementById('orange'),
     document.getElementById('green')
 ];
 const durations = [60000, 3000, 30000]; // red: 60s, yellow: 3s, green: 30s (in ms)

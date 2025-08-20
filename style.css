@@ -21,9 +21,9 @@
     background: red;
     box-shadow: 0 0 30px red;
 }
-.yellow.active {
-    background: yellow;
-    box-shadow: 0 0 30px yellow;
+.orange.active {
+    background: orange;
+    box-shadow: 0 0 30px orange;
 }
 .green.active {
     background: green;
